@@ -1,0 +1,13 @@
+# ignore raw & processed data
+data/
+
+# ignore trained model files
+models/
+
+# Python caches, venv, notebooks, etc.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store

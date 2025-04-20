@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+
+# Audio processing
+librosa
+
+# Deep learning & tuning
+tensorflow>=2.9
+keras-tuner
+
+# Notebook & kernel
+jupyter
+ipykernel
+
+# Web app
+streamlit
+

@@ -1,0 +1,33 @@
+Hyperparameter - Test loss    : 3.125
+Hyperparameter - Test accuracy: 0.901
+
+Classification Report
+              precision    recall  f1-score   support
+
+       blues       0.93      0.89      0.91       315
+   classical       0.91      1.00      0.95       271
+     country       0.88      0.87      0.88       298
+       disco       0.86      0.91      0.89       288
+      hiphop       0.94      0.91      0.93       292
+        jazz       0.96      0.90      0.93       261
+       metal       0.91      0.96      0.93       283
+         pop       0.95      0.88      0.92       279
+      reggae       0.89      0.89      0.89       266
+        rock       0.79      0.80      0.79       294
+
+    accuracy                           0.90      2847
+   macro avg       0.90      0.90      0.90      2847
+weighted avg       0.90      0.90      0.90      2847
+
+Confusion Matrix
+           blues  classical  country  disco  hiphop  jazz  metal  pop  reggae  rock
+blues        281          1        5      4       2     5      2    0       3    12
+classical      0        270        0      0       0     0      1    0       0     0
+country        4          3      260      6       0     1      0    2       4    18
+disco          0          1        5    263       3     1      1    4       3     7
+hiphop         1          0        4      2     267     0      8    0       8     2
+jazz           9         13        1      0       0   235      0    0       1     2
+metal          0          1        0      1       0     0    273    0       0     8
+pop            2          2        7      7       6     0      2  246       2     5
+reggae         3          1        4      7       2     1      0    3     237     8
+rock           2          4        9     15       5     1     14    3       7   234
