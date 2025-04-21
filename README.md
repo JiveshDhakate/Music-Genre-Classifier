@@ -134,4 +134,7 @@ Explore output files in `results/baseline_model/` and `results/hyperparameter_mo
 - `_training_curves.png`  
 
 ---
+## Author
+Jivesh Dhakate
+MSc Computer Science, University College Dublin
 
