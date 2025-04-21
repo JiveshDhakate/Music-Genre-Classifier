@@ -136,5 +136,6 @@ Explore output files in `results/baseline_model/` and `results/hyperparameter_mo
 ---
 ## Author
 Jivesh Dhakate
+
 MSc Computer Science, University College Dublin
 
